@@ -1,0 +1,14 @@
+Assignment #1 (10th Dec 2020)
+
+Extract the SYSTEM and SOFTWARE hives from your Windows system. (Hint:
+look in /Windows/System32/Config). You can use any Registry parser (E.g.
+Registry Ripper/Registry Explorer) and then select the appropriate hive file to
+answer these questions (put a snapshot for each answer):
+1. What is the computer name of the system?
+2. When was the Operating System installed?
+3. What are the applications installed on the system?
+4. What date/time (in UTC) was the Operating System installed? Hint: you may
+have to convert epoch time to human readable time using DCode tool.
+5. Is Remote Desktop service enabled? How do you know?
+6. What is the IP address of the system?
+7. When was the system last shutdown?
