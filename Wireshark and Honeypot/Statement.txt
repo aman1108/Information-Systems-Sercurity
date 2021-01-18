@@ -1,0 +1,30 @@
+Assignment #4: Lab on PCAP Analysis (4th Jan 2021) 
+In this assignment, we will complete our work with reading and reviewing PCAPs as it is  
+essential for a security analyst to understand how to do this and to be very familiar with  
+Wireshark. Additionally, students will set up a honeypot in their Kali Linux installation. 
+
+Part #1 
+Situation: A Very Special One 
+Students should: 
+1. Download this PCAP file from Classwork. 
+2. Review the sample analysis discussing these questions: 
+∙ Document the date, start time and end time of the pcap in UTC (GMT). 
+∙ Document the IP address of the three hosts in the pcap. 
+∙ Document the mac address of the three hosts in the pcap. 
+∙ Document the type of computer (Windows, Mac, Android, etc) for each of the three hosts in the pcap. 
+∙ Determine which host(s) were infected. 
+∙ Document the family (or families) of malware based on indicators from the pcap. 
+∙ Document the root cause for any infections noted in the pcap. 
+
+Complete a 1 page reflection for Part #1. Given these sample incident reports, 
+write about  what you learned, what you have questions about, what you researched as part of this  
+review, and anything else you feel is relevant. Later in the course, you will be asked to  
+complete an incident report on a given PCAP but this project is meant to mature the  
+exercise of packet analysis and incident reporting. 
+
+Part #2 
+In Part #2 this assignment, students are to follow the guidance in your book and in the  
+video below on how to create a honeypot within Kali Linux. Students should provide  
+screen shots as needed showing the setup process of the honeypot and that the honeypot  
+is working. Finally, students should write about what you learned in this part. 
+https://www.youtube.com/watch?v=8aPETedsLik
