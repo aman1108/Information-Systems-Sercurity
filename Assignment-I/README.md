@@ -1,4 +1,4 @@
-##Registry Parser
+# Registry Parser
 
 I had used Registry Ripper 3.0 in order to extract the system and software hives from windows system.
 
