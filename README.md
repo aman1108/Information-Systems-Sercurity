@@ -1,5 +1,7 @@
 # Information-Systems-Sercurity
 
-Assignment I : Registry Parser
+Registry Parser
 
-Assignment II: Reconnaissance
+Reconnaissance
+
+Metasploitable 2
